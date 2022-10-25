@@ -1,0 +1,11 @@
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\bin\Debug\ÖgrGiris.exe.config
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\bin\Debug\ÖgrGiris.exe
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\bin\Debug\ÖgrGiris.pdb
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.Form1.resources
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.FrmYönlendir.resources
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.Properties.Resources.resources
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.csproj.GenerateResource.cache
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.csproj.CoreCompileInputs.cache
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.exe
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.pdb
+C:\Users\seyma\source\repos\ÖgrGiris\ÖgrGiris\obj\Debug\ÖgrGiris.csprojAssemblyReference.cache
